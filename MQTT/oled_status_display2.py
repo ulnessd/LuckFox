@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# oled_status_display.py
+# oled_status_display2.py
 # Runs on the LuckFox with the OLED display.
 # Subscribes to MQTT status messages and updates the OLED.
 
